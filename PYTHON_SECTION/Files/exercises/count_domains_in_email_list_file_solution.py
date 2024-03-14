@@ -16,8 +16,8 @@ import pdb
 import json
 
 
-input_file = "count_domains_in_email_list_file_exercise_input.csv"
-output_file = "count_domains_in_email_list_file_exercise_output.json"
+input_file = "PYTHON_SECTION/Files/exercises/count_domains_in_email_list_file_exercise_input.csv"
+output_file = "PYTHON_SECTION/Files/exercises/count_domains_in_email_list_file_exercise_output.json"
 
 def get_emails_from_file(file_path):
 
